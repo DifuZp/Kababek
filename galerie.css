@@ -1,0 +1,50 @@
+*{box-sizing: border-box;}
+body{
+    background: url(Nocni-Sumperk.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+img {
+    width:450px; 
+    height:400px;
+    max-width: 500px;
+    border: 5px solid rgb(234, 236, 76);
+}
+
+a:link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none rgb(0, 0, 0);
+}
+
+a:active {
+    color: rgb(0, 0, 0);
+    text-decoration: none rgb(0, 0, 0);
+}
+.button{
+    background-color: rgb(255, 0, 0) ;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 12px ;
+    padding: 15px 32px ;
+    color: rgb(255, 255, 255) !important;
+    display: inline-block;
+    margin:25px !important;
+}
+.button:hover {
+    color: black !important;
+}
+
+.galery{
+    margin:25px !important;
+    display: block !important;
+}

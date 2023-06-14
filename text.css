@@ -1,0 +1,89 @@
+*{box-sizing: border-box;}
+@media(max-width: 1500px){
+    body{
+        background-color: rgb(234, 114, 114);
+    }
+}
+@media(max-width: 600px){
+    body{
+        background-color:rgb(236, 79, 79);
+    }
+    .button{
+        background-color: rgb(255, 0, 0) ;
+        border: 1px solid rgb(0, 0, 0);
+        border-radius: 12px ;
+        padding: 15px 32px ;
+        color: rgb(255, 255, 255) ;
+        display: inline-block ;
+    }
+}
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none black;
+}
+
+a:active {
+    color: black;
+    text-decoration: none black;
+}
+
+.stred{
+    text-align: center;
+}
+
+body{
+    background: url(https://t3.ftcdn.net/jpg/02/34/38/12/360_F_234381253_GT7XkYO7qsfGGINHVDDDBl1uOEVCi7zo.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    height: 1020px !important;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none black;
+}
+
+a:active {
+    color: black;
+    text-decoration: none black;
+}
+
+.stred{
+    text-align: center;
+    background-color: rgba(177, 176, 176,0.4);
+}
+
+
+.button{
+    background-color: rgb(255, 0, 0) ;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 12px ;
+    padding: 15px 32px ;
+    color: rgb(255, 255, 255) !important;
+    display: inline-block;
+}
+
+.button:hover{
+    color: black !important;
+}
